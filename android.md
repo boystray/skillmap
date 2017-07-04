@@ -100,6 +100,14 @@
      - Cocos2d-x(R5,P5)
      - Xamarin(R3,P3)
      - Qt Android(R5,P5)
+     - rxjava
+     - retrofit
+     - okhttp
+     - gson
+     - glide
+     - butterknife
+     - lite-orm
+     
 - 开发及版本控制工具
  - IDE(R1,P1)
      - Android Studio(R1,P1)
